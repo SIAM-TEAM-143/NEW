@@ -1,3 +1,3 @@
 import os
-import Siamking
-Siamking.login()
+import random
+random.login()
